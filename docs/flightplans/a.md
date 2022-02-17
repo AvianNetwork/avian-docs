@@ -15,8 +15,8 @@ Assets themselves alone can be transferred, minted, etc. We want to further unlo
 !!! note
 
     Avian Flight Plans are written in the Lua programming language. 
-    
-    To learn more about the `avian` object, refer to [Avian Lib ↗](/flightplans/avian-library/)
+
+    To learn more about the `avian` object, refer to [Avian Lib ↗](flightplans/avian-library/)
 
 ```lua
 -- Function to get random block
@@ -51,10 +51,10 @@ Result: 01/15/2022
 
 ## Links
 
-### [Examples ↗](/flightplans/b)
+### [Examples ↗](flightplans/b)
 
-### [Getting Started ↗](/flightplans/c)
+### [Getting Started ↗](flightplans/c)
 
-### [Inner workings ↗](/flightplans/d)
+### [Inner workings ↗](flightplans/d)
 
-### [Avian Lib ↗](/flightplans/avian-library/)
+### [Avian Lib ↗](flightplans/avian-library/)
