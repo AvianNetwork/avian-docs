@@ -6,20 +6,20 @@ The library is contained in the `avian` object.
 And sections, like "assets" would look like this: `avian.assets`
 
 ## List of sections
-[`avian.addressIndex` ↗](/flightplans/avian-library/address-index/getaddressbalance/)
+[`avian.addressIndex` ↗](address-index/getaddressbalance/)
 
-[`avian.assets` ↗](/flightplans/avian-library/assets/getassetdata/)
+[`avian.assets` ↗](assets/getassetdata/)
 
-[`avian.blockchain` ↗](/flightplans/avian-library/blockchain/decodeblock/)
+[`avian.blockchain` ↗](blockchain/decodeblock/)
 
-[`avian.localWallet` ↗](/flightplans/avian-library/local-wallet/abandontransaction/)
+[`avian.localWallet` ↗](local-wallet/abandontransaction/)
 
-[`avian.main` ↗](/flightplans/avian-library/main/createmultisig/)
+[`avian.main` ↗](main/createmultisig/)
 
-[`avian.messages` ↗](/flightplans/avian-library/messages/clearmessages/)
+[`avian.messages` ↗](messages/clearmessages/)
 
-[`avian.mining` ↗](/flightplans/avian-library/mining/getblocktemplate/)
+[`avian.mining` ↗](mining/getblocktemplate/)
 
-[`avian.network` ↗](/flightplans/avian-library/network/addnode/)
+[`avian.network` ↗](network/addnode/)
 
-[`avian.rawTransactions` ↗](/flightplans/avian-library/raw_transactions/combinerawtransaction/)
+[`avian.rawTransactions` ↗](raw_transactions/combinerawtransaction/)
