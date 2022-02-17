@@ -35,3 +35,10 @@ theme:
   logo: assets/logo.png
 
   favicon: assets/logo.png
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tasklist
