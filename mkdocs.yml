@@ -1,6 +1,6 @@
 site_name: Avian Docs
-repo_url: https://github.com/AvianNetwork/avian-docs
-repo_name: AvianNetwork/avian-docs
+repo_url: https://github.com/AvianNetwork/Avian
+repo_name: AvianNetwork/Avian
 
 theme:
   name: material
@@ -42,3 +42,4 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.tasklist
+  - pymdownx.keys
