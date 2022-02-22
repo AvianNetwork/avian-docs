@@ -10,7 +10,7 @@ And sections, like "assets" would look like this: `avian.assets`
 
 [`avian.assets` ↗](assets/getassetdata/)
 
-[`avian.blockchain` ↗](blockchain/decodeblock/)
+[`avian.blockchain` ↗](blockchain/getbestblockhash/)
 
 [`avian.localWallet` ↗](local-wallet/abandontransaction/)
 
