@@ -1,7 +1,8 @@
 # What is Wrapped Avian (wAVN)
 
 ## Going DeFi with your AVIN
-### Wrapped Avian powers the Avian Network with the flexibility of an ERC20 token and EVM ecosytem
+
+Wrapped Avian powers the Avian Network with the flexibility of an ERC20 token and EVM ecosytem
 
 Wrapped Avian (WAVN) is an ERC20 token on the Polygon Network, backed 1:1 with Avian.
 Completely transparent. Safe to use on EVM chains, Dapps, ledgers and many more.

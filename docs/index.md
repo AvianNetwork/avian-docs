@@ -19,4 +19,5 @@ the Avian Core software, see https://avn.network
 [Avian Flight Plans ↗](flightplans/a) 
 A scripting language for Avian that can embedded in websites and apps.
 
-[Avian Polygon Bridge ↗](wAVN/wavn) Wrapped Avian on Polygon
+[Wrapped Avian ↗](wAVN/what-is-wavn) 
+Wrapped Avian on Polygon
