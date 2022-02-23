@@ -20,14 +20,16 @@ theme:
     code: Roboto Mono
 
   palette: 
-  - scheme: slate
+  - scheme: default
+    primary: blue
     toggle:
       icon: material/toggle-switch-off-outline 
-      name: Switch to light mode
+      name: Switch to dark mode
   - scheme: default 
+    primary: slate
     toggle:
       icon: material/toggle-switch
-      name: Switch to dark mode
+      name: Switch to light modelight
 
   features:
     - navigation.tabs
