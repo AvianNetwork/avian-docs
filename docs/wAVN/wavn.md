@@ -1,2 +1,0 @@
-# Wrapped Avian (wAVN)
-wAVN
