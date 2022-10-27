@@ -1,3 +1,7 @@
+---
+title: Introdution
+---
+
 # Introdution
 
 ## What are Avian Flight Plans?
@@ -51,12 +55,12 @@ Result: 01/15/2022
 
 ## Links
 
-### [Examples ↗](../b)
+### [Examples ↗](examples)
 
-### [Getting Started ↗](../c)
+### [Getting Started ↗](getting-started)
 
-### [Inner workings ↗](../d)
+### [Inner workings ↗](inner-workings)
 
-### [Avian Lib ↗](../avian-library)
+### [Avian Lib ↗](avian-library)
 
-### [Web3 Lib ↗](../web3-library)
+### [Web3 Lib ↗](web3-library)

@@ -1,3 +1,7 @@
+---
+title: Getting Started
+---
+
 # Getting Started
 
 ## GUI Method
@@ -102,9 +106,9 @@ call_function <file name> <function name> <args>
 
 ## Links
 
-### [Examples ↗](../b)
+### [Examples ↗](../examples)
 
-### [Inner workings ↗](../d)
+### [Inner workings ↗](../inner-workings)
 
 ### [Avian Lib ↗](../avian-library)
 

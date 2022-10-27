@@ -1,3 +1,7 @@
+---
+title: Examples
+---
+
 # Examples
 
 ## Example 1: Real life usecase

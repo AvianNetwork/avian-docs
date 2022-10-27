@@ -1,3 +1,7 @@
+---
+title: Inner workings
+---
+
 # Inner workings
 
 ## Infographic
