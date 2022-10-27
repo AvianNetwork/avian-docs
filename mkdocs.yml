@@ -16,17 +16,16 @@ theme:
   # Default values, taken from mkdocs_theme.yml
   language: en
   font:
-    text: Manrope
     code: Roboto Mono
 
   palette: 
   - scheme: default
-    primary: blue
+    primary: black
     toggle:
       icon: material/weather-sunny
       name: Switch to dark mode
   - scheme: slate 
-    primary: blue
+    primary: black
     toggle:
       icon: material/weather-night
       name: Switch to dark mode
