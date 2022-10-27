@@ -29,7 +29,7 @@ Let’s suppose a simple example. A social media website wants to keep track of 
 Use this RPC method:
 
 ```
-call_function [flight plan name] [function name] [args] 
+call_flightplan [flight plan name] [function name] [args] 
 ```
 
 ![RPC](https://aviannetwork.github.io/avian-docs/assets/img/image11.png)

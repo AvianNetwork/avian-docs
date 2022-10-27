@@ -45,7 +45,7 @@ end
     Since Avian Flight Plans can called using the RPC, this allows flight plans to be called from any programming language that supports Bitcoin RPC. We will use `avian-cli` for this example.
 
 ```bash
-avian-cli call_function test info_hash
+avian-cli call_flightplan test info_hash
 ```
 
 ### Output

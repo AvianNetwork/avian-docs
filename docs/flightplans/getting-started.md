@@ -96,12 +96,12 @@ Go to Help -> Debug -> Console
 
 To run the function `hello_world` in the file called `test.lua`, type the following command:
 ```
-call_function test hello_world
+call_flightplan test hello_world
 ```
 
 The format of the RPC call is below:
 ```
-call_function <file name> <function name> <args>
+call_flightplan <file name> <function name> <args>
 ```
 
 ## Links
