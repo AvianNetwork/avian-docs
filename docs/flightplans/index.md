@@ -62,5 +62,3 @@ Result: 01/15/2022
 ### [Inner workings ↗](inner-workings)
 
 ### [Avian Lib ↗](avian-library)
-
-### [Web3 Lib ↗](web3-library)
