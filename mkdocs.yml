@@ -5,6 +5,7 @@ repo_name: AvianNetwork/Avian
 plugins:
     - search
     - awesome-pages
+    - social
 
 theme:
   name: material
@@ -19,8 +20,6 @@ theme:
 
   # Default values, taken from mkdocs_theme.yml
   language: en
-  font:
-    code: Roboto Mono
 
   palette: 
   - scheme: default
