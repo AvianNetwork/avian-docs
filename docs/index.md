@@ -1,3 +1,8 @@
+---
+title: Welcome
+description: Avian Network is a proof-of-work secured blockchain designed for efficient and interoperable asset management.
+---
+
 # Welcome
 
 <img src="https://aviannetwork.github.io/avian-docs/assets/img/image31.png" alt="logo" width="100"/>
@@ -27,10 +32,10 @@ the Avian Core software, see [https://avn.network](https://avn.network)
 [Avian Flight Plans ↗](flightplans) 
 A scripting language for Avian that can embedded in websites and apps.
 
+[Avian Name System ↗](ans) 
+A decentralized identity system using the Bitcoin UTXO model.
+
 <img src="https://aviannetwork.github.io/avian-docs/assets/img/wavn.png" alt="text" width="64"/>
 
 [Wrapped Avian ↗](wAVN/what-is-wavn) 
 Wrapped Avian on Polygon.
-
-[Avian Name System ↗](ans) 
-A decentralized identity system using the Bitcoin UTXO model.

@@ -1,5 +1,6 @@
 ---
 title: Examples
+description: Example fictitious usecases for Avian Flight Plans
 ---
 
 # Examples

@@ -1,5 +1,6 @@
 ---
 title: Getting Started
+description: Getting started with Avian Flight Plans
 ---
 
 # Getting Started

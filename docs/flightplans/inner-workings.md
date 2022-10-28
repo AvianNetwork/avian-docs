@@ -1,5 +1,6 @@
 ---
 title: Inner workings
+description: Inner workings of Avian Flight Plans
 ---
 
 # Inner workings
