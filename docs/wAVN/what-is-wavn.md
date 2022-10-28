@@ -4,7 +4,7 @@
 
 !!! warning
 
-    This documation is planned to be re-written. Proceed with caution when dealing with wAVN.
+    This document is planned to be re-written. Proceed with caution when dealing with wAVN.
 
 ## Going DeFi with your AVIN
 

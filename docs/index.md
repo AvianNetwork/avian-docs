@@ -5,7 +5,7 @@
 
 !!! note
 
-    These documations are still under heavy work and is subject to change.    
+    These documents are still under heavy work and is subject to change.    
 
 ## Welcome to Avian Network!
 ### What is Avian?
@@ -31,3 +31,6 @@ A scripting language for Avian that can embedded in websites and apps.
 
 [Wrapped Avian ↗](wAVN/what-is-wavn) 
 Wrapped Avian on Polygon.
+
+[Avian Name System ↗](ans) 
+A decentralized identity system using the Bitcoin UTXO model.
