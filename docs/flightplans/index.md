@@ -4,6 +4,8 @@ title: Introdution
 
 # Introdution
 
+<img src="https://aviannetwork.github.io/avian-docs/assets/svg/afp.svg" alt="text" width="128"/>
+
 ## What are Avian Flight Plans?
 !!! note
 

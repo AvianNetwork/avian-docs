@@ -1,5 +1,7 @@
 # What is Wrapped Avian (wAVN)
 
+<img src="https://aviannetwork.github.io/avian-docs/assets/img/wavn.png" alt="text" width="128"/>
+
 ## Going DeFi with your AVIN
 
 Wrapped Avian powers the Avian Network with the flexibility of an ERC20 token and EVM ecosytem
