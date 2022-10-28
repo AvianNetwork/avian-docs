@@ -6,6 +6,10 @@ title: Introdution
 
 <img src="https://aviannetwork.github.io/avian-docs/assets/svg/afp.svg" alt="text" width="128"/>
 
+!!! warning
+
+    Avian Flight Plans is still a heavy work-in-progress and any info stated is subject to change. Flight plans are not available for use on mainnet, only on testnet.
+
 ## What are Avian Flight Plans?
 !!! note
 

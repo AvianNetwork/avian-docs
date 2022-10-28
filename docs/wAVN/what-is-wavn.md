@@ -2,6 +2,10 @@
 
 <img src="https://aviannetwork.github.io/avian-docs/assets/img/wavn.png" alt="text" width="128"/>
 
+!!! warning
+
+    This documation is planned to be re-written. Proceed with caution when dealing with wAVN.
+
 ## Going DeFi with your AVIN
 
 Wrapped Avian powers the Avian Network with the flexibility of an ERC20 token and EVM ecosytem
